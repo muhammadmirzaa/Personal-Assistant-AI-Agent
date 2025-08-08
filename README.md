@@ -1,2 +1,2 @@
 # Personal-Assistant-AI-Agent
-This is a personal project to create an AI agent using langchain to carry out a variety of routine tasks autonomously
+This is a personal project to create an AI agent using langchain to carry out a variety of routine tasks autonomously (Sending whatsapp messages, emails, fetching weather and Steam game data)
